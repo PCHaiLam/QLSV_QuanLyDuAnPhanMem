@@ -1,24 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVien\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B01EA1DB-F7E9-4CB0-A58E-8A9045B647AE}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\manhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B01EA1DB-F7E9-4CB0-A58E-8A9045B647AE}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\manhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B01EA1DB-F7E9-4CB0-A58E-8A9045B647AE}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\forminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B01EA1DB-F7E9-4CB0-A58E-8A9045B647AE}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\forminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B01EA1DB-F7E9-4CB0-A58E-8A9045B647AE}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\admin\\documents\\github\\quanlysinhvien\\quanlysinhvien\\quanlysinhvien\\forminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B01EA1DB-F7E9-4CB0-A58E-8A9045B647AE}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\forminformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B01EA1DB-F7E9-4CB0-A58E-8A9045B647AE}|QuanLySinhVien\\QuanLySinhVien.csproj|C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVien\\quanlysinhvien\\manhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B01EA1DB-F7E9-4CB0-A58E-8A9045B647AE}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\manhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\QLSV_QuanLyDuAnPhanMem\\QuanLySinhVien\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormInformation.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien\\FormInformation.cs",
-              "RelativeDocumentMoniker": "QuanLySinhVien\\FormInformation.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien\\FormInformation.cs",
-              "RelativeToolTip": "QuanLySinhVien\\FormInformation.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAEwBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T07:46:31.425Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -72,43 +42,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormInformation.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien\\FormInformation.cs",
-              "RelativeDocumentMoniker": "QuanLySinhVien\\FormInformation.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien\\FormInformation.cs [Design]",
-              "RelativeToolTip": "QuanLySinhVien\\FormInformation.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T07:43:02.85Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ManHinhChinh.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien\\ManHinhChinh.cs",
-              "RelativeDocumentMoniker": "QuanLySinhVien\\ManHinhChinh.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien\\ManHinhChinh.cs",
-              "RelativeToolTip": "QuanLySinhVien\\ManHinhChinh.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAtwP8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T04:19:52.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ManHinhChinh.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien\\ManHinhChinh.cs",
-              "RelativeDocumentMoniker": "QuanLySinhVien\\ManHinhChinh.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\QuanLySinhVien\\QuanLySinhVien\\QuanLySinhVien\\ManHinhChinh.cs [Design]",
-              "RelativeToolTip": "QuanLySinhVien\\ManHinhChinh.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T04:07:38.914Z",
-              "EditorCaption": " [Design]"
             }
           ]
         },
