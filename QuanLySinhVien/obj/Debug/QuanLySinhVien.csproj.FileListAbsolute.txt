@@ -9,3 +9,14 @@ C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\bin
 C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
 C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
 C:\Users\Admin\Documents\GitHub\QuanLySinhVien\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormInformation.resources
+C:\Users\Admin\Documents\GitHub\QLSV_QuanLyDuAnPhanMem\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\Admin\Documents\GitHub\QLSV_QuanLyDuAnPhanMem\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\Admin\Documents\GitHub\QLSV_QuanLyDuAnPhanMem\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\Admin\Documents\GitHub\QLSV_QuanLyDuAnPhanMem\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\QLSV_QuanLyDuAnPhanMem\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormInformation.resources
+C:\Users\Admin\Documents\GitHub\QLSV_QuanLyDuAnPhanMem\QuanLySinhVien\obj\Debug\QuanLySinhVien.ManHinhChinh.resources
+C:\Users\Admin\Documents\GitHub\QLSV_QuanLyDuAnPhanMem\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\QLSV_QuanLyDuAnPhanMem\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\QLSV_QuanLyDuAnPhanMem\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\QLSV_QuanLyDuAnPhanMem\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\Admin\Documents\GitHub\QLSV_QuanLyDuAnPhanMem\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
